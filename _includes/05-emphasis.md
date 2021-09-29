@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Me gusta la programacion y ver varios entornos de las mismas_
+__Hola__
+__C#__
