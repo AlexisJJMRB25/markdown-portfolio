@@ -1,4 +1,4 @@
--Compras
--Precios
--Presupuesto
--Totales
+- Compras
+- Precios
+- Presupuesto
+- Totales
